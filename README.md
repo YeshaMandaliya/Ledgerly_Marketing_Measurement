@@ -89,7 +89,6 @@ I kept refunds in, since they're real money going back out. Without cleaning, re
 - `EXECUTIVE_SUMMARY.md` - one-page version
 - `Marketing_Project.ipynb` - profiling, cleaning and analysis in SQL (DuckDB in Google Colab)
 - `validation.sql` - the extra checks (campaign split, payback, 2025 holdout), run after the notebook
-- `generate_data.py` - creates the raw data
 - `DATA_DICTIONARY.md` - table and column descriptions
 - `data/` - the raw CSVs, one zip per table
 
