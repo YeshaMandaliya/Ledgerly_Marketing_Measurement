@@ -57,7 +57,7 @@ The budget question is about next year, so recent data matters. But the main met
 
 ## The data
 
-The data is synthetic. I generated it with [generate_data.py](generate_data.py) and deliberately made it messy. It has about 2.3M rows across five tables: touchpoints (1.8M), leads, accounts, monthly revenue and daily spend. The raw CSVs are in the [data](data/) folder, zipped one table per file to stay under GitHub's upload limit. The columns are described in [DATA_DICTIONARY.md](DATA_DICTIONARY.md).
+The data is synthetic. I generated it with a Python script and deliberately made it messy, the way real marketing data usually is. It has about 2.3M rows across five tables: touchpoints (1.8M), leads, accounts, monthly revenue and daily spend. The raw CSVs are in the [data](data/) folder, zipped one table per file to stay under GitHub's upload limit. The columns are described in [DATA_DICTIONARY.md](DATA_DICTIONARY.md).
 
 ## Cleaning
 
